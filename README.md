@@ -1,2 +1,2 @@
 # npksd
-Non-Parametric Kernel Stein Discrepancies (NO-KSD) for implicit model assessment
+Non-Parametric Kernel Stein Discrepancies (NP-KSD) for implicit model assessment
